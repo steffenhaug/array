@@ -1,0 +1,8 @@
+[package]
+name = "array"
+version = "0.1.0"
+authors = ["Steffen Haug <steffenandr@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+matrixmultiply = "0.2"
